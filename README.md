@@ -13,8 +13,8 @@ For use
 
 4. You should install the pycrypto package manually below this line.
 
-  https://github.com/dlitz/pycrypto
+      https://github.com/dlitz/pycrypto
   
-  The release of pycrypto in pip3 does not support pad, unpad functions.
+    The release of pycrypto in pip3 does not support pad, unpad functions.
 
 5. You can use and test it freely. If you encounter a bug, please report it please. Thank you!
